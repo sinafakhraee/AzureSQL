@@ -5,11 +5,12 @@
 
 1. Login to azure using [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) and select your active subscription
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/login.PNG)
-2. Select active subscription using ```az account set -n {name of your sub}``` command
-4. Item 3
-   1. Item 3a
-   1. Item 3b
-5. 
+2. Select your active azure subscription using `az account set --subscription {name of your sub}` command
+&nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/subs.PNG)
+3. Create the service principal with `az ad sp create-for-rbac` Azure CLI command:
+&nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/sp.PNG)
+
+
 
 
 
