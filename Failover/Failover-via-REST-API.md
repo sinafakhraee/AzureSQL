@@ -20,5 +20,11 @@
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/imported.PNG)
 5. Right click on AzureSQLFailoverREST collection and click edidt. Select variables tab. Here we will set the collection level variables which are used by the REST APIs in the collection (here we only have one post request)
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/vars.PNG)  
+**clientid** is the value of appId from the service principal creation output above.\
+**clientSecret** is the value of password from the service principal creation output above.\
+**tenantId** is the value of tenamt from the service principal creation output above.\
+**resourse** is https://management.azure.com/ \
+If you dont have failover group and SQL DB setup,please go through this [Tutorial: Add an Azure SQL Database to an autofailover group](https://docs.microsoft.com/en-us/azure/azure-sql/database/failover-group-add-single-database-tutorial?tabs=azure-portal) and fill out the rest of variables accordingly. 
+
 
 
