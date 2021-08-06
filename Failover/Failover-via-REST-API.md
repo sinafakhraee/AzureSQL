@@ -12,7 +12,8 @@
 
 ### Setting up postman 
 1. Download and install <a href="https://www.postman.com/downloads/" target="_blank">Postman</a> 
-2. [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cf534305e7901550785d)
+2. Import AzureSQLFailoverREST collection from link below:\
+&nbsp;[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cf534305e7901550785d)
 
 
 
