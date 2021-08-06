@@ -11,7 +11,8 @@
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/create_sp.PNG)
 
 ### Setting up postman 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cf534305e7901550785d)
+1. Download and install <a href="https://www.postman.com/downloads/" target="_blank">Postman</a> 
+2. [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cf534305e7901550785d)
 
 
 
