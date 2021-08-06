@@ -34,7 +34,7 @@ If you dont have failover group and SQL DB setup,please go through this [Tutoria
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/async.PNG)
 3. Create a new Get request in the same collection in order to use the variables we have already setup (token, subscription, etc.) and paste the Azure-AsyncOperation url from 2. submit the request and you will see the status of the failover operation. 
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/asyn-response.PNG)
-4. If you go to your azure portal and select the failover group you created earlier you will notices that primary and secondary servers are swapped now.   
+4. If you go to your azure portal and select the failover group you created earlier you will notice that primary and secondary servers are swapped now.   
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/servers-swapped.PNG)
 
 
