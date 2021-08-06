@@ -18,5 +18,7 @@
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/postman.PNG)
 4. AzureSQLFailoverREST collection gets imported and you will see it under collections in Postman:
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/imported.PNG)
+5. Right click on AzureSQLFailoverREST collection and click edidt. Select variables tab. Here we will set the collection level variables which are used by the REST APIs in the collection (here we only have one post request)
+&nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/vars.PNG)  
 
 
