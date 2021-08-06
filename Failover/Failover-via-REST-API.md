@@ -16,5 +16,7 @@
 &nbsp;[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/cf534305e7901550785d)
 3. Click on postman for windows:
 &nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/postman.PNG)
+4. AzureSQLFailoverREST collection gets imported and you will see it under collections in Postman:
+&nbsp;![alt text](https://github.com/sinafakhraee/AzureSQL/blob/main/Failover/images/imported.PNG)
 
 
